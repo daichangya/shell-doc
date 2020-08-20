@@ -1,6 +1,6 @@
 ![logo](_media/icon.jpg)
 
-# Everything curl 中文文档 
+# shell 中文文档 
 
 > 欢迎关注上面的公众号:分布式编程.
 
